@@ -1,0 +1,110 @@
+site_name: LFDT Contributor's Site
+repo_name: lf-decentralized-trust-labs/contributors-site
+repo_url: https://github.com/lf-decentralized-trust-labs/contributors-site
+edit_uri: edit/main
+copyright: "Copyright &copy; LF Decentralized Trust<br/>License: CC BY 4.0"
+theme:
+  name: material
+  logo: assets/project-logo.svg
+  favicon: assets/project-icon.svg
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+  - content.code.copy
+  - content.action.view
+  - navigation.expand
+  - navigation.footer
+  - navigation.indexes
+  - navigation.instant
+  - navigation.instant.prefetch
+  - navigation.path
+  - navigation.sections
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.top
+  - navigation.tracking
+  - search.highlight
+  - search.suggest
+  - toc.follow
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lf-decentralized-trust
+    - icon: fontawesome/solid/flask-vial
+      link: https://github.com/lf-decentralized-trust-labs
+      name: Labs (GitHub)
+    - icon: fontawesome/brands/discord
+      link: https://discord.lfdecentralizedtrust.org/
+      name: Discord
+    - icon: fontawesome/solid/envelope
+      link: https://lists.lfdecentralizedtrust.org
+    - icon: fontawesome/solid/calendar-days
+      link: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust
+      name: Community Calendar
+    - icon: fontawesome/solid/globe
+      link: https://lfdecentralizedtrust.org
+nav:
+  - Home: index.md
+#not_in_nav: |
+
