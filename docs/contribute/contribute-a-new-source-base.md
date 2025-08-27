@@ -8,8 +8,8 @@
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-flask-vial:{ .lg .middle } __[Contribute a Lab](./contribute-to-an-existing-source-base.md)__
-- :fontawesome-solid-sitemap:{ .lg .middle } __[Contribute Top-Level Project](./contribute-a-new-source-base.md)__
+- :fontawesome-solid-flask-vial:{ .lg .middle } __[Contribute Lab](./contribute-lab.md)__
+- :fontawesome-solid-sitemap:{ .lg .middle } __[Contribute Top-Level Project](./contribute-project.md)__
 
 </div>
 

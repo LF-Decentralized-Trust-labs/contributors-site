@@ -109,7 +109,10 @@ nav:
   - Contribute:
     - contribute/index.md
     - Contribute to an Existing Source Base: contribute/contribute-to-an-existing-source-base.md
-    - Contribute a New Source Base: contribute/contribute-a-new-source-base.md
+    - Contribute a New Source Base:
+      - contribute/contribute-a-new-source-base.md
+      - Contribute a Lab: contribute/contribute-lab.md
+      - Contibute a Top-Level Project: contribute/contribute-project.md
   - Maintain:
     - maintain/index.md
   - Mentorship Program:
