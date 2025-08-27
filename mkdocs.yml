@@ -106,5 +106,13 @@ extra:
       link: https://lfdecentralizedtrust.org
 nav:
   - Home: index.md
+  - Contribute:
+    - contribute/index.md
+    - Contribute to an Existing Source Base: contribute/contribute-to-an-existing-source-base.md
+    - Contribute a New Source Base: contribute/contribute-a-new-source-base.md
+  - Maintain:
+    - maintain/index.md
+  - Mentorship Program:
+    - mentorship/index.md
 #not_in_nav: |
 
