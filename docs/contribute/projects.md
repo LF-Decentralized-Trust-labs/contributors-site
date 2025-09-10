@@ -2,7 +2,7 @@
 
 # LFDT Projects
 
-!!! draft
+!!! draft<br>
     All projects of the LF Decentralized Trust Foundation (LFDT) are classified into stages of maturity.  
     The LFDT TOC uses these criteria to define project maturity:
 
@@ -89,12 +89,10 @@ Learn more in the [Project Lifecycle](https://lf-decentralized-trust.github.io/g
 - **Community Outreach** – Regional chapters, meetups, mailing lists, Discord, website content improvements.
 - **Governance & Policy Documents** – Proposal templates, project charters, branding, guidelines, codes of conduct.
 
-<div class="grid cards" markdown>
 
-- :fontawesome-solid-flask-vial:{ .lg .middle } __[Contribute Lab](./contribute-lab.md)__
-- :fontawesome-solid-sitemap:{ .lg .middle } __[Contribute Top-Level Project](./contribute-project.md)__
+End-users are some of the most valuable contributors: by adopting LFDT projects in production, sharing feedback, and documenting real-world use cases, they strengthen the ecosystem just as much as code contributors do.  
 
-</div>
+Learn how your organization can get involved → [End Users as Contributors](./end-users.md)
 
 ---
 
