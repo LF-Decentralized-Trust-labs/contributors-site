@@ -198,3 +198,7 @@ Contributing to open source is a rewarding journey.
 Start small, collaborate openly, and respect the community.  
 
 Good luck on your path to becoming an LFDT contributor!
+
+---
+
+_Attribution: Adapted from the page “Contribute to the CNCF Ecosystem” on the CNCF Contributors website. © 2025 The CNCF Authors. Licensed under CC BY 4.0. Original at [contribute.cncf.io/contributors](https://contribute.cncf.io/contributors/)._
