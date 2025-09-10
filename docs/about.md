@@ -1,11 +1,11 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# About this Site
+# About
 
-Welcome to the **LF Decentralized Trust (LFDT)** contributor hub — a one-stop guide to using, contributing to, and maintaining LFDT projects. This site collects contributor ladders, maintainer playbooks, governance templates, mentorship paths, and end-user contribution guidance under a single, vendor-neutral roof.
+Welcome to the **LF Decentralized Trust (LFDT)** Contributor Guide — a one-stop guide to using, contributing to, and maintaining LFDT projects. This site collects contributor ladders, maintainer playbooks, governance templates, mentorship paths, and end-user contribution guidance under a single, vendor-neutral roof.
 
 !!! tip "New here?"
-    If you’re not sure where to start, visit **[Contributing as an End User](./contribute/end-users.md)** or **[Contribute to a Project](./contribute/index.md)**. Adoption and feedback are high-impact contributions.
+    If you’re not sure where to start, visit **[Getting Started with Open Source at LFDT](./contribute/start.md)** or **[Contributing as an End User](./contribute/end-users.md)**. Adoption and feedback are high-impact contributions.
 
 ---
 
@@ -20,6 +20,7 @@ The **Contributor Ladder Task Force** (CLTF) stewards community health across LF
 - Maintain resources and templates that projects can copy and adapt
 
 > Want to collaborate with the CLTF? Open an issue or PR on this site, or reach out via the LFDT community channels listed in project docs.
+> Join our CLTF weekly meetings {insert link to LFX Calendar listing for CLFT mtg}
 
 ---
 
@@ -31,7 +32,7 @@ We welcome improvements! Typical edits include adding examples, clarifying steps
 2. If your content isn’t ready for prime time, mark it as a draft by adding `draft: true` in the page front matter.  
 3. Open a Pull Request; a preview build will validate your changes.  
 
-See the contribution workflow notes in our “Contributing Guide” for this site. (Draft pages are hidden from production but visible to collaborators in PR previews.)
+See the contribution workflow notes in our **[Contributing Guide](../guide.md)** for this site. (Draft pages are hidden from production but visible to collaborators in PR previews.)
 
 ---
 
