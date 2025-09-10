@@ -106,6 +106,7 @@ extra:
       link: https://lfdecentralizedtrust.org
 nav:
   - Home: index.md
+  - About: about.md 
   - Contribute:
     - contribute/index.md
     - Contribute to an Existing Source Base: contribute/contribute-to-an-existing-source-base.md
