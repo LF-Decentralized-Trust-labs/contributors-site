@@ -32,7 +32,7 @@ We welcome improvements! Typical edits include adding examples, clarifying steps
 2. If your content isn’t ready for prime time, mark it as a draft by adding `draft: true` in the page front matter.  
 3. Open a Pull Request; a preview build will validate your changes.  
 
-See the contribution workflow notes in our **[Contributing Guide](../guide.md)** for this site. (Draft pages are hidden from production but visible to collaborators in PR previews.)
+See the contribution workflow notes in our **[Contributing Guide](./guide.md)** for this site. (Draft pages are hidden from production but visible to collaborators in PR previews.)
 
 ---
 
