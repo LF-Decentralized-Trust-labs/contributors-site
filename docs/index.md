@@ -13,7 +13,7 @@ Whether you ship code, shape governance, write docs, or run LFDT projects in pro
 
 - :octicons-project-symlink-16:{ .lg .middle } __[Contribute to a project](./contribute/index.md)__
 - :fontawesome-solid-hands-helping:{ .lg .middle } __[Maintain a Project](./maintain/index.md)__
-- :fontawesome-solid-code-merge:{ .lg .middle } __[Contributing as an End User](./contribute/end-users.md)__
+- :fontawesome-solid-code-merge:{ .lg .middle } __[Contributing as an End User](./end-users.md)__
 - :fontawesome-solid-chalkboard-teacher:{ .lg .middle } __[Join a Mentorship Program](./mentorship/index.md)__
 - :fontawesome-solid-circle-info:{ .lg .middle } __[About](./about.md)__
 
