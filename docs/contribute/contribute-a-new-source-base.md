@@ -10,6 +10,7 @@
 
 - :fontawesome-solid-flask-vial:{ .lg .middle } __[Contribute Lab](./contribute-lab.md)__
 - :fontawesome-solid-sitemap:{ .lg .middle } __[Contribute Top-Level Project](./contribute-project.md)__
+- :fontawesome-solid-sitemap:{ .lg .middle } __[Contribute a Sub-Project to a Top-Level Project](./contribute-subproject.md)__
 
 </div>
 
