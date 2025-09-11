@@ -1,16 +1,9 @@
-# Contribute to the LFDT Ecosystem
+# Contributing to an existing project 
 
-*Adapted from the CNCF Contributors site (CC BY 4.0) with references to CNCF changed to LFDT.*
+*Placeholder as most of this content is incorporated in the Getting Started with Open Source at LFDT page start.md*
+*Need to figure out if this page is required or if some of this additional content should be moved to start.md*
 
 Welcome! Are you interested in contributing to one of **LFDT**-hosted projects? This page collects information and guidelines to help you get started contributing across **LFDT** projects.
-
-**LFDT** offers multiple ways to begin contributing to the ecosystem, including both foundation‑wide and project‑specific opportunities.
-
-Contributing to **LFDT** isn’t only about writing code. You can also help by improving documentation, creating tutorials, testing releases, sharing ideas in meetings, organizing community events, triaging issues, and more.
-
-## Open Source Beginners
-
-New to open source? Start with a beginner‑friendly guide that explains how communities work, how to find a project, and what to expect as a contributor. You’ll learn how to make your first contribution, communicate effectively, and follow community standards.
 
 ## Ways to Contribute
 
