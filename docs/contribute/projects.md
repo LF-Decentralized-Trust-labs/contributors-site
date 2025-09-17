@@ -52,28 +52,17 @@ Learn more in the [Project Lifecycle](https://lf-decentralized-trust.github.io/g
 
 ## Labs
 
-Labs are the earliest stage in the LFDT project lifecycle.  
-They provide a safe space for experimentation, hackathon outputs, proofs of concept, and early demos.  
-Projects in Labs may graduate into Incubating if they gain traction, or remain as reference experiments.  
-Learn more in the [Project Lifecycle](https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle/?h=lifecycle).
+Labs are the earliest stage in the LFDT project lifecycle. They provide a safe space for experimentation, hackathon outputs, proofs of concept, and early demos. Projects in Labs may graduate into Incubating if they gain traction, or remain as reference experiments.  
 
-- [Blockchain Explorer](https://github.com/hyperledger-labs/blockchain-explorer/blob/main/README.md) – Explore blockchain transaction data and network state.
-- [Blockchain Automation Framework Lab](https://github.com/hyperledger-bevel/bevel/blob/main/README.md) – Deployment/management automation tools. *(Formerly the “Blockchain Automation Framework” lab; later renamed to Hyperledger Bevel.)*
-- [Solang Lab](https://github.com/hyperledger/solang/blob/main/README.md) – Experimental implementation of the Solang compiler in LFDT’s lab environment.
-- [AI FAQ 2025](https://github.com/hyperledger-labs/aifaq/blob/main/README.md) – Research initiative applying AI to LFDT use cases.
-- [YUI Lab](https://github.com/hyperledger-labs/yui-docs/blob/main/README.md) – Experiments in user interface and developer experience design.
-- [Agora](https://github.com/LF-Decentralized-Trust-labs/agora-key-share-proofs/blob/main/README.md) – Collaborative environment for decentralized governance and decision-making.
-- [Open Enterprise Agent](https://github.com/hyperledger-labs/open-enterprise-agent/blob/main/README.md) – Exploration of verifiable credential agents for enterprises.
+More details about LFDT Labs (descriptions, repositories, stewards) are available at the [LFDT Labs GitHub](https://lf-decentralized-trust-labs.github.io/).
 
-More details (descriptions, repositories, stewards) are available at the [LFDT Labs GitHub](https://lf-decentralized-trust-labs.github.io/).
-
+- **You can find a list to the [currently Active LFDT Labs here](https://lf-decentralized-trust-labs.github.io/labs/lfdt/).**
 ---
 
 ## Archived
 
-Archived projects are no longer actively maintained within the LFDT community.  
-They may be inactive, superseded by other efforts, or simply reached end of life.  
-While their code and history remain available, they are not expected to evolve further.  
+Archived projects are no longer actively maintained within the LFDT community.   They may be inactive, superseded by other efforts, or simply reached end of life.   While their code and history remain available, they are not expected to evolve further.  
+
 Learn more in the [Project Lifecycle](https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle/?h=lifecycle).
 
 ---
