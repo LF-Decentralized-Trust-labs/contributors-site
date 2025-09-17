@@ -42,16 +42,18 @@ Follow these steps to propose a **new Lab** using the LFDT Labs website reposito
 1. **Fork** the `lf-decentralized-trust-labs.github.io` repository.
 2. **Fill out the Proposal Template** and save it under the `labs/` subdirectory as `<your-lab-name>.md` (e.g., `mynewlab.md`). Your **lab repository is expected to use the same name**, so choose carefully.  
    - **Naming rule:** A Lab **cannot** be named after a product, network, or any existing entity. Open source code should have a distinct identity separate from any product or service. If you pick a product/service name now, you will need to change it later.
-3. **(Optional) Find a sponsor** to help connect your proposal to the broader LFDT community and validate novelty/scope.  
+3. **(Optional) Find a Sponsor** to help connect your proposal to the broader LFDT community and validate novelty/scope.
+
    Ways to find sponsors:  
    - Ask maintainers of related projects via your existing connections.  
    - Pitch to related working groups or projects in their channels/mailing lists.  
-   - Use the `MAINTAINERS` file in repos to find contacts and/or post to the Maintainers list.  
-4. **Commit with DCO sign-off.** Include a line like:  
+   - Use the `MAINTAINERS` file in repos to find contacts and/or post to the Maintainers list.
+     
+5. **Commit with DCO sign-off.** Include a line like:  
    `Signed-off-by: Your Name <you@example.com>`  
    Use `git commit -s` to add it automatically (or `git commit --amend -s`).
-5. **Open a Pull Request.**
-6. **Wait for Labs stewards review.** Stewards check that proposals are **cogent and novel**. Stewards and sponsors are not obligated to maintain your Lab code; their review role is limited to proposal evaluation.
+6. **Open a Pull Request.**
+7. **Wait for Labs stewards review.** Stewards check that proposals are **cogent and novel**. Stewards and sponsors are not obligated to maintain your Lab code; their review role is limited to proposal evaluation.
 
 ### Bringing in an existing repository
 - By default, stewards create a **new repository** for your Lab.  
