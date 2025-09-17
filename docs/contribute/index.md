@@ -15,6 +15,7 @@
 - :fontawesome-solid-hands-helping:{ .lg .middle } __[LFDT Projects](./projects.md)__
 - :fontawesome-solid-hands-helping:{ .lg .middle } __[Start Contributing to Open Source](./start.md)__
 - :fontawesome-solid-hands-helping:{ .lg .middle } __[Contribute to an existing source base](./contribute-to-an-existing-source-base.md)__
-- :octicons-project-symlink-16:{ .lg .middle } __[Contribute a new source base](./contribute-a-new-source-base.md)__
+- :fontawesome-solid-hands-helping:{ .lg .middle } __[Contribute a new source base](./contribute-a-new-source-base.md)__
+- :fontawesome-solid-hands-helping:{ .lg .middle } __[Contribute a subproject to an exisiting top-level project](./contribute-subproject.md)__
 
 </div>
