@@ -107,14 +107,16 @@ extra:
 nav:
   - Home: index.md
   - About: about.md 
-  - Contribute:
+  - Contributors:
     - contribute/index.md
+    - New to Open Source: contribute/start.md
+    - LFDT Projects: contribute/projects.md
     - Contribute to an Existing Source Base: contribute/contribute-to-an-existing-source-base.md
     - Contribute a New Source Base:
       - contribute/contribute-a-new-source-base.md
       - Contribute a Lab: contribute/contribute-lab.md
       - Contibute a Top-Level Project: contribute/contribute-project.md
-  - Maintain:
+  - Maintainers:
     - maintain/index.md
   - Mentorship Program:
     - mentorship/index.md
