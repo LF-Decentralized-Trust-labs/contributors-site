@@ -12,8 +12,8 @@
 
 <div class="grid cards" markdown>
     
+- :fontawesome-solid-hands-helping:{ .lg .middle } __[New to Open Source](./start.md)__
 - :fontawesome-solid-hands-helping:{ .lg .middle } __[LFDT Projects](./projects.md)__
-- :fontawesome-solid-hands-helping:{ .lg .middle } __[Start Contributing to Open Source](./start.md)__
 - :fontawesome-solid-hands-helping:{ .lg .middle } __[Contribute to an Existing Source Base](./contribute-to-an-existing-source-base.md)__
 - :fontawesome-solid-hands-helping:{ .lg .middle } __[Contribute a New Source Base](./contribute-a-new-source-base.md)__
 
