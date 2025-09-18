@@ -106,7 +106,7 @@ extra:
       link: https://lfdecentralizedtrust.org
 nav:
   - Home: index.md
-  - About: about.md 
+  - About: about/index.md 
   - Contributors:
     - contribute/index.md
     - New to Open Source: contribute/start.md
@@ -118,6 +118,8 @@ nav:
       - Contibute a Top-Level Project: contribute/contribute-project.md
   - Maintainers:
     - maintain/index.md
+  - End Users:
+    - end-users/index.md
   - Mentorship Program:
     - mentorship/index.md
 #not_in_nav: |

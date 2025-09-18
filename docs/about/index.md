@@ -5,7 +5,7 @@
 Welcome to the **LF Decentralized Trust (LFDT)** Contributor Guide — a one-stop guide to using, contributing to, and maintaining LFDT projects. This site collects contributor ladders, maintainer playbooks, governance templates, mentorship paths, and end-user contribution guidance under a single, vendor-neutral roof.
 
 !!! tip "New here?"
-    If you’re not sure where to start, visit **[Getting Started with Open Source at LFDT](./contribute/start.md)** or **[Contributing as an End User](./contribute/end-users.md)**. Adoption and feedback are high-impact contributions.
+    If you’re not sure where to start, visit **[Getting Started with Open Source at LFDT](../contribute/start.md)** or **[Contributing as an End User](../end-users/index.md)**. Adoption and feedback are high-impact contributions.
 
 ---
 
