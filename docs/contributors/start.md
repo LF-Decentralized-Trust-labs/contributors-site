@@ -48,11 +48,7 @@ Professional conduct is also important:
 
 ## Choose a Project
 
-When starting out, select a project that matches your skills and interests. Within LFDT, some flagship projects include:
-
-- **[Hyperledger Besu](https://besu.hyperledger.org/)** – an open-source Ethereum client under Apache 2.0, written in Java.  
-- **[Hyperledger FireFly](https://hyperledger.github.io/firefly/)** – a “Supernode” stack enabling enterprises to build secure Web3 applications via APIs and orchestrated workflows.  
-- **[Hiero](https://hiero.org/)** – the LFDT project name for the Hedera codebase, governed under vendor-neutral stewardship.  
+When starting out, select a [project](./projects.md) that matches your skills and interests. 
 
 Tips for choosing:
 

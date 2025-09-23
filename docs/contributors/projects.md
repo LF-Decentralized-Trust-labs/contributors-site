@@ -81,7 +81,7 @@ Learn more in the [Project Lifecycle](https://lf-decentralized-trust.github.io/g
 
 End-users are some of the most valuable contributors: by adopting LFDT projects in production, sharing feedback, and documenting real-world use cases, they strengthen the ecosystem just as much as code contributors do.  
 
-Learn how your organization can get involved → [End Users as Contributors](../end-users.md)
+Learn how your organization can get involved → [End Users as Contributors](../end-users/index.md)
 
 ---
 

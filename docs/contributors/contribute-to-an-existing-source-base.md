@@ -1,4 +1,4 @@
-# Contributing to an existing project 
+# Contributing to an Existing Project 
 
 *Placeholder as most of this content is incorporated in the Getting Started with Open Source at LFDT page start.md*
 *Need to figure out if this page is required or if some of this additional content should be moved to start.md*
@@ -16,7 +16,7 @@ Welcome! Are you interested in contributing to one of **LFDT**-hosted projects? 
 
 ## Finding a Project
 
-Explore **LFDT**‑hosted projects to discover where your interests and skills fit best. Each project typically offers:
+Explore [**LFDT**‑hosted projects](./projects.md) to discover where your interests and skills fit best. Each project typically offers:
 - Contribution guidelines (how to get set up and submit changes),
 - Labels for good first issues and help‑wanted tasks,
 - Communication channels (e.g., mailing lists, chat, meetings),
