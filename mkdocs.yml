@@ -106,18 +106,21 @@ extra:
       link: https://lfdecentralizedtrust.org
 nav:
   - Home: index.md
-  - About: about/index.md 
+  - About:
+    - about/index.md 
+    - Contribution Guide: about/guide.md
   - Contributors:
-    - contribute/index.md
-    - New to Open Source: contribute/start.md
-    - LFDT Projects: contribute/projects.md
-    - Contribute to an Existing Source Base: contribute/contribute-to-an-existing-source-base.md
+    - contributors/index.md
+    - New to Open Source: contributors/start.md
+    - LFDT Projects: contributors/projects.md
+    - Contribute to an Existing Source Base: contributors/contribute-to-an-existing-source-base.md
     - Contribute a New Source Base:
-      - contribute/contribute-a-new-source-base.md
-      - Contribute a Lab: contribute/contribute-lab.md
-      - Contibute a Top-Level Project: contribute/contribute-project.md
+      - contributors/contribute-a-new-source-base.md
+      - Contribute a Lab: contributors/contribute-lab.md
+      - Contibute a Top-Level Project: contributors/contribute-project.md
+      - Contribute a Sub-Project: contributors/contribute-subproject.md
   - Maintainers:
-    - maintain/index.md
+    - maintainers/index.md
   - End Users:
     - end-users/index.md
   - Mentorship Program:

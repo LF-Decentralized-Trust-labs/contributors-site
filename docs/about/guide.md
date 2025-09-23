@@ -2,7 +2,7 @@
 
 # Contributor Site Contribution Guide
 
-This contributor website lives in **LF-Decentralized-Trust-labs/contributors-site** and is published via GitHub Pages. You can edit pages directly on GitHub or work locally with MkDocs (Material theme).
+This contributor website lives in [**LF-Decentralized-Trust-labs/contributors-site**](https://github.com/LF-Decentralized-Trust-labs/contributors-site) and is published via GitHub Pages. You can edit pages directly on GitHub or work locally with MkDocs (Material theme).
 
 - Repo: `https://github.com/LF-Decentralized-Trust-labs/contributors-site`
 - Published site: `https://lf-decentralized-trust-labs.github.io/contributors-site/`
@@ -17,7 +17,7 @@ This contributor website lives in **LF-Decentralized-Trust-labs/contributors-sit
     2. Make your Markdown edits, write a clear commit message, and open a **Pull Request (PR)**.  
     3. After review, merging the PR republishes the site to GitHub Pages.
 
-If you’re **adding a new page**, see **Add a New Page** and **Update the Sidebar Navigation** below.
+If you’re **adding a new page**, see [**Add a New Page**](#add-a-new-page) and [**Update the Sidebar Navigation**](#update-the-sidebar-navigation) below.
 
 ---
 
@@ -64,13 +64,15 @@ contributors-site/
 │  ├─ index.md
 │  ├─ about.md
 │  ├─ projects.md
-│  ├─ contribute/
+│  ├─ contributors/
 │  │  ├─ index.md
 │  │  ├─ end-users.md
 │  │  └─ guide.md      ← (this file, if you place it here)
-│  ├─ maintain/
+│  ├─ maintainers/
 │  │  └─ index.md
 │  └─ mentorship/
+│     └─ index.md
+│  └─ end-users/
 │     └─ index.md
 ├─ mkdocs.yml
 ├─ requirements.txt
@@ -86,9 +88,9 @@ contributors-site/
 
 ## Add a New Page
 
-1. **Create the file** under `docs/`, e.g.:
+1. **Create the file** under `docs/` in the correct location, e.g.:
    ```
-   docs/contribute/how-to-add-pages.md
+   docs/contributors/how-to-add-pages.md
    ```
 
 2. **Add a title** at the top:
@@ -110,14 +112,16 @@ site_name: LF Decentralized Trust
 nav:
   - Home: index.md
   - About: about.md
-  - Contribute:
-      - Overview: contribute/index.md
-      - End Users: contribute/end-users.md
-      - Website Guide: contribute/guide.md     # ← add your page here
-  - Maintain:
+  - Contributors:
+      - Overview: contributors/index.md
+      - End Users: contributors/end-users.md
+      - How to Add Pages: contributors/how-to-add-pages.md     # ← add your page here
+  - Maintainers:
       - Overview: maintain/index.md
   - Mentorship:
       - Overview: mentorship/index.md
+  - End Users:
+      - Overview: end-users/index.md
   - Projects: projects.md
 ```
 
@@ -131,13 +135,13 @@ nav:
 ## Linking Between Pages (relative links)
 
 With `use_directory_urls: true` (default), `projects.md` renders at `/projects/`.  
-- From `docs/projects.md` to `docs/end-users.md` (sibling): `../contribute/end-users/`  
-- From `docs/contribute/index.md` to `docs/about.md`: `../about/`  
+- From `docs/projects.md` to `docs/end-users.md` (sibling): `../contributors/end-users/`  
+- From `docs/contributors/index.md` to `docs/about.md`: `../about/`  
 - Same folder: `./another-page/` or `another-page.md`
 
 **Examples**
 ```markdown
-See the [End Users](../contribute/end-users/) guide.
+See the [End Users](../contributors/end-users/) guide.
 Read more [About](../about/).
 ```
 
