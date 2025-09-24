@@ -4,7 +4,7 @@
 
 !!! note
 
-    This page is a placeholder.
+    Ready to donate code to LF Decentralized Trust? This page explains how to choose the right entry path—LFDT Labs for early exploration, a Top-Level Project for mature, mission-aligned code, or a Sub-project under an existing TLP—and outlines the steps to propose and onboard your new source base under open governance.
 
 <div class="grid cards" markdown>
 
