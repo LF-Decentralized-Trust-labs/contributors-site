@@ -2,12 +2,12 @@
 
 # Contribute to a LF Decentralized Trust Project
 
-!!! draft
+!!! Welcome
 
-    This is a work in progress
+    Are you interested in contributing to one of the many [LDFT hosted projects](./projects.md)? This repository should help you. It contains information and guidelines about contributions to LFDT projects.  LFDT offers multiple ways to start contributing to the LFDT ecosystem, including either foundation-wide and project-wide opportunities.  Contributing to the LFDT ecosystem is not just about coding. There are many other ways to contribute to the LFDT ecosystem, including writing documentation, creating tutorials, bringing ideas to meetings, organizing meetups, and more.
 
 
-Welcome! Are you interested in contributing to one of the many [LDFT hosted projects](./projects.md)? This repository should help you. It contains information and guidelines about contributions to LFDT projects.  LFDT offers multiple ways to start contributing to the LFDT ecosystem, including either foundation-wide and project-wide opportunities.  Contributing to the LFDT ecosystem is not just about coding. There are many other ways to contribute to the LFDT ecosystem, including writing documentation, creating tutorials, bringing ideas to meetings, organizing meetups, and more.
+
 
 <div class="grid cards" markdown>
     
