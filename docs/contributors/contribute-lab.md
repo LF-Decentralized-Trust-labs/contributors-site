@@ -1,5 +1,11 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+# Propose a New Top-Level Project (TLP) to LFDT
+
+!!! tip "New here?"
+
+    Read the **[LFDT Project Lifecycle](https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle/)** for the authoritative policy on stages and criteria.
+
 ## Why Propose a New Project as an LFDT Lab
 
 LFDT Labs is the fastest way to start and grow an open-source idea under vendor-neutral stewardship. By proposing a Lab, you get a lightweight home for your code—public repo, basic governance, and community visibility—without the overhead of a full top-level project. Labs invite early adopters and maintainers to test, give feedback, and co-develop roadmaps, while you benefit from standard practices (Apache-2.0, DCO) and shared community infrastructure. As your project matures, the Labs path provides a clear runway toward the formal LFDT lifecycle (Incubation → Graduation). If you want momentum, mentorship, and a credible neutral umbrella from day one, proposing a Lab is the right move.
@@ -7,7 +13,7 @@ LFDT Labs is the fastest way to start and grow an open-source idea under vendor-
 ## How to Contribute a New Project as an LFDT Lab
 
 ### Understanding LFDT Labs
-LFDT Labs serves as an experimental space for new projects before they potentially enter the formal LFDT project lifecycle [1](#1-0) . Previous successful projects like Cacti and FireFly have come through labs before becoming official LFDT projects [2](#1-1) .
+LFDT Labs serves as an experimental space for new projects before they potentially enter the formal LFDT project lifecycle [1](#1-0) . Previous successful projects like Cacti and FireFly have come through labs before becoming official LFDT projects.
 
 ### Key Requirements for Labs Projects
 LFDT Labs keeps barriers low, but proposals still need a few essentials so collaborators can engage from day one. Below are the baseline requirements reviewers look for to confirm the project is legally clean, minimally documented, and has committed maintainers with a clear scope.<br>
@@ -19,11 +25,11 @@ LFDT Labs keeps barriers low, but proposals still need a few essentials so colla
    - Defined scope and objectives
 
 ### Transition Path to Full LFDT Projects
-Labs projects that mature can transition to the formal LFDT lifecycle through the Incubation state [4](#1-3) . To qualify for this transition, projects must meet entry criteria including:
+Labs projects that mature can transition to the formal LFDT lifecycle through the Incubation state . To qualify for this transition, projects must meet entry criteria including:
 
-- Legal compliance (Apache 2 licensing) [5](#1-4) 
-- Maintainer diversity (≥2 organizations) [6](#1-5) 
-- Basic security practices [7](#1-6) 
+- Legal compliance (Apache 2 licensing)
+- Maintainer diversity (≥2 organizations)
+- Basic security practices 
 
 ### Next Steps
 1. Prepare your project proposal with clear description, scope, and committed resources
