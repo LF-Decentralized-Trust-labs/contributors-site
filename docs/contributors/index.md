@@ -11,7 +11,7 @@
 
 <div class="grid cards" markdown>
     
-- :beginner:{ .lg .middle } __[New to Open Source](./start.md)__
+- :simple-linuxfoundation:{ .lg .middle } __[New to Open Source](./start.md)__
 
     ---
 

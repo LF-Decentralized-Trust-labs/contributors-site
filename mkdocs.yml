@@ -115,9 +115,10 @@ nav:
     - LFDT Projects: contributors/projects.md
     - Contribute to an Existing Source Base: contributors/contribute-to-an-existing-source-base.md
     - Contribute a New Source Base:
-      - Contribute a Lab: contributors/contribute-lab.md
-      - Contibute a Top-Level Project: contributors/contribute-project.md
-      - Contribute a Sub-Project: contributors/contribute-subproject.md
+      - contributors/new-source-base/index.md
+      - Contribute a Lab: contributors/new-source-base/contribute-lab.md
+      - Contibute a Top-Level Project: contributors/new-source-base/contribute-project.md
+      - Contribute a Sub-Project: contributors/new-source-base/contribute-subproject.md
   - Maintainers:
     - maintainers/index.md
   - End Users:
