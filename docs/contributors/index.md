@@ -29,7 +29,7 @@
     
     Do you want to contribute to an existing source base? Click here for more information on different ways that you can contribute to an existing source base.
 
-- :material-new-box:{ .lg .middle } __[Contribute a New Source Base](./contribute-a-new-source-base.md)__
+- :material-new-box:{ .lg .middle } __[Contribute a New Source Base](./new-source-base/index.md)__
 
     ---
 
