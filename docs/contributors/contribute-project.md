@@ -1,143 +1,54 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Propose a New Top-Level Project (TLP) to LFDT
+# Propose a New Top‑Level Project (TLP)
 
-Launching a new **Top-Level Project (TLP)** at LFDT gives your community a neutral home, clear governance, and a well-defined path from **Incubation → Graduation**. This page summarizes what the Technical Advisory Council (TAC) looks for, how to prepare a proposal, and how projects are evaluated. Detailed criteria and procedures live in the governance repository and lifecycle docs. Projects may start in **LFDT Labs** and later propose for **Incubation**. The **TAC** meets regularly to review proposals and reports; decisions are recorded in public minutes and GitHub PRs.
+If you’re exploring a home for a project under **Linux Foundation Decentralized Trust (LFDT)**, welcome—you’re in the right place. This page is written for founders, maintainers, and community stewards who want neutral governance, a durable brand, and a path for their project to grow in the open. We’ll keep this conversational and point straight to the official documents so you don’t have to read the same things twice.
 
-**Important:** For any official LFDT project, entry to the formal lifecycle is only through the **Incubation** stage. The governance doc states that projects accepted by LFDT “enter the lifecycle only through the *Incubation* state,” including new proposals, Labs projects moving up, and reactivated archived projects.   That said, **[LFDT Labs](https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle/](https://www.lfdecentralizedtrust.org/projects/labs))** is outside the formal lifecycle —it’s a lightweight place to start work first. If/when a Lab is promoted to an official LFDT project, it then enters **Incubation**.
+A **Top‑Level Project (TLP)** is a community with a clear scope and its own technical steering, hosted under LFDT’s neutral umbrella. New projects normally start in **Incubation** and graduate when they meet the criteria in the lifecycle policy. Rather than restating those rules, we’ll simply link you there when needed.
 
- 
-!!! tip "New here?"
-    Read the **[LFDT Project Lifecycle](https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle/)** for the authoritative policy on stages and criteria. It also clarifies how projects can become **Dormant** or **Archived** if activity ceases.
+- **Project Lifecycle & Graduation criteria:** <https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle.html>
+- **Proposal template & submissions:** <https://github.com/LF-Decentralized-Trust/project-proposals>
 
----
+## Is a TLP right for you?
 
-## Project Proposal Requirements
+Think about the journey you’re on. If your codebase is public, you have a defined problem space, and there’s interest from more than one organization, a TLP can provide the neutral ground to grow. If you’re earlier—maybe a single‑org prototype or a promising idea looking for its first contributors—**LFDT Labs** is a terrific starting point that keeps your path to a TLP wide open: <https://www.lfdecentralizedtrust.org/projects/labs>.
 
-Submit your proposal to the TAC using the official **Proposal Template**. 
+If your work is a focused component of an existing LFDT project, you may be better served as a **sub‑project** within that community. When in doubt, reach out; the TAC and existing maintainers are happy to help you find the right home.
 
-Include [3](#2-2):
+## What makes a strong proposal
 
-- **Clear description** of the project's purpose and goals  
-- **Well-defined scope** that does not overlap existing LFDT projects  
-- **Committed development resources** from multiple organizations  
-- **Initial maintainers** representing diverse organizations  
-- **Vendor-neutral approach** ensuring no single company controls the project
+Successful proposals tell a clear story:
 
----
+*They explain the problem and the scope in plain language.* Readers should immediately understand why this work matters and how it fits within LFDT’s mission. If there’s overlap with existing projects, acknowledge it and describe how you’ll collaborate or differentiate.
 
-## Entry Criteria for Incubation
+*They show there’s a community, not just code.* Name the initial maintainers and organizations involved, and share early signals of adoption—proof‑of‑concepts, pilots, or users who intend to build on your work. Multi‑organization participation is a strong signal of project health and neutrality.
 
-Minimum requirements to begin the lifecycle [4](#2-3):
+*They sketch a near‑term roadmap.* No grand treatises required—just enough to show how you plan to release, document, test, and engage contributors during Incubation. The lifecycle page outlines how maturity is evaluated over time and what “graduation‑ready” looks like.
 
-1. **Legal Compliance** — Apache-2.0 license with proper attribution  
-2. **Maintainer Diversity** — At least **2** organizations represented among maintainers  
-3. **Security Standards** — Basic security policies and practices in place
+*They embrace open governance and good hygiene.* Use a permissive, Apache‑compatible license, make contribution expectations explicit (e.g., DCO/CLA approach), and show that security and quality (testing, CI, signed artifacts) are part of your plan. You’ll find the policy details in the lifecycle; link above.
 
----
+When you’re ready, use the **official template** rather than free‑form prose. It keeps everyone on the same page and speeds up review: <https://github.com/LF-Decentralized-Trust/project-proposals>.
 
-## Technical & Community Readiness
+## How evaluation works
 
-Projects should demonstrate [5](#2-4):
+The **Technical Advisory Council (TAC)** reviews proposals against the lifecycle policy. In practice, they’re looking for a good fit with LFDT scope, a community that can grow under neutral governance, and a path to meet the maturity signals over time (releases, docs, testing, security practices, healthy contributor dynamics). Entry is typically to **Incubation**, where you’ll build momentum and report progress; graduation comes later, when the criteria are met. Full policy here: <https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle.html>.
 
-- **Open source codebase** with **DCO** sign-off enforcement  
-- **Multiple maintainers** from different organizations  
-- **Production usage** examples or proof-of-concept implementations  
-- **Community engagement plan** (public forums, regular meetings, documented process)
+## The journey: socialize → submit → present → incubate
 
----
+Great proposals don’t appear out of nowhere—they’re socialized. Start by introducing your intent to the TAC and related project communities. Share a short summary, ask for feedback, and listen for signals about overlap and collaboration opportunities. This early conversation often sharpens your scope and strengthens your team.
 
-## Evaluation Process
+When the shape feels right, fill out the **proposal template** and open a pull request in the proposals repository. Request time on a TAC call to present, answer questions, and incorporate any final feedback. If the TAC approves, you’ll enter **Incubation** and work toward graduation with the community cheering you on.
 
-The TAC evaluates proposals across **Legal, Diversity, Security, Releases, Testing/QA, Structure, Maintenance, Production,** and **Documentation** [6](#2-5). Inputs include **OpenSSF Scorecard** signals, **LFX Insights** activity, and **manual repository inspection**.
+- TAC meeting calendar: <https://www.lfdecentralizedtrust.org/meeting-calendar>
+- TAC mailing list: <https://lists.lfdecentralizedtrust.org/g/tac/topics>
+- Proposals repo: <https://github.com/LF-Decentralized-Trust/project-proposals>
 
----
+## Stay connected
 
-## Submission Process (TL;DR)
+LFDT thrives on friendly, ongoing conversation. If you’re still deciding on the right path—or you simply want to meet your future collaborators—join the community spaces and say hello. You’ll find people eager to help with naming, scope, governance questions, and technical fit.
 
-1. **Prepare your proposal** using the official template in the proposals repository.  
-2. **Engage the community** — discuss in Discord, mailing lists, and TAC meetings.  
-3. **Submit to TAC** for formal review and vote.  
-4. **Meet ongoing requirements** — quarterly reports and annual reviews after acceptance.
-
-!!! note "Best practices"
-    Several successful LFDT projects (e.g., **Cacti**, **FireFly**) proved out in **LFDT Labs** before proposing for Incubation. If your idea is early-stage or experimental, consider starting in Labs to build momentum and validate scope [8](#2-7).
-
----
-
-## Notes
-
-
-
----
-
-## Citations
-
-**File:** tac/governing-documents/project-lifecycle.md (L43-48)
-```markdown
-Projects are in one of four possible states:
-
-- [_Incubation_](#incubation)
-- [_Graduated_](#graduated)
-- [_Dormant_](#dormant)
-- [_Archived_](#archived)
-```
-
-**File:** tac/governing-documents/project-lifecycle.md (L60-66)
-```markdown
-A Proposal must:
-
-- Have a clear description
-- Have a well-defined scope
-- Identify committed development resources
-- Identify initial maintainers
-- Be vendor neutral
-```
-
-**File:** tac/governing-documents/project-lifecycle.md (L150-159)
-```markdown
-The following criteria MUST be considered for each project when making one of the aforementioned decisions:
-- Legal
-- Diversity
-- Releases
-- Testing and Q/A
-- Security
-- Structure
-- Maintenance
-- Production
-- Documentation
-```
-
-**File:** tac/governing-documents/project-lifecycle.md (L183-184)
-```markdown
-  * To be a *Graduated* project, the number of organizations from which maintainers are drawn must be at least 3, and the OpenSSF Score SHOULD be 10.
-  * To be an *Incubated* project, the number of organizations from which maintainers are drawn must be at least 2.
-```
-
-**File:** tac/governing-documents/project-lifecycle.md (L242-245)
-```markdown
-A project accepted by the LFDT can enter the lifecycle only through the *Incubation* state. This applies to:
-- New projects presented to the TAC
-- Projects that were formerly *Archived* and wish to resume development activity
-- LFDT Labs projects
-```
-
-**File:** tac/governing-documents/project-lifecycle.md (L247-250)
-```markdown
-Therefore, the qualification for a project to be accepted by the LFDT TAC and to begin its official lifecycle is the set of criteria marked (6) in the above diagram, namely:
-1. Legal
-2. Diversity (>=2 maintaining organizations)
-3. Security
-```
-
-**File:** tac/guidelines/project-incubation-entry-considerations.md (L12-19)
-```markdown
-### Codebase
-* Code should exist as open source software in some form. Previous accepted projects have come up through labs (e.g., Cacti, FireFly); while others previously had stand alone governance prior to joining (e.g., Besu).
-* DCO sign off should be enforced in the code repository as it transitions to LFDT. Historical commits that existed in the repository before a decision to transition the project to LFDT was made do not need to be squashed, in order to preserve metadata.
-
-### Maintainers
-* The project should have multiple maintainers. These maintainers need not be from different companies; however, having maintainers from different companies is seen as a positive sign. Proposals with only one maintainer have been rejected by prior TACs.
-* The project should have demonstrable examples of POC/production uses publicly available.
-* The project should have the backing of more than one organization/individuals (i.e., the project proposers should be able to demonstrate significant, long term contribution in codebase).
-```
+- How to contribute (overview): <https://www.lfdecentralizedtrust.org/how-to-contribute>
+- Contribute to code (by project): <https://www.lfdecentralizedtrust.org/contribute-to-code>
+- Host your project at LFDT: <https://www.lfdecentralizedtrust.org/host-your-project>
+- TAC call archives (YouTube): <https://www.youtube.com/@LFDecentralizedTrust/search?query=TAC>
+- Newsletter (digest & dev updates): <https://www.lfdecentralizedtrust.org/newsletter>
