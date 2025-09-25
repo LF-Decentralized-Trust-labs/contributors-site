@@ -1,34 +1,45 @@
-# Contributing to an Existing Project 
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-*Placeholder as most of this content is incorporated in the Getting Started with Open Source at LFDT page start.md*
-*Need to figure out if this page is required or if some of this additional content should be moved to start.md*
+# Contribute to an Existing Project
 
-Welcome! Are you interested in contributing to one of **LFDT**-hosted projects? This page collects information and guidelines to help you get started contributing across **LFDT** projects.
+If you’re here, you’re already part of the story. LFDT projects are built in the open by people who fix small things, ask good questions, write a paragraph of docs, or land their first PR. This page is a gentle on-ramp—pointing you to the right places so you can start contributing today, without wading through policy.
 
-## Ways to Contribute
+## Pick a project you’re excited about
 
-- **Code & Reviews**: Fix bugs, implement features, review pull requests.
-- **Docs & Tutorials**: Improve READMEs, how‑tos, and developer guides.
-- **Community**: Join meetings, mentor newcomers, and help moderate forums.
-- **Release & QA**: Test pre‑releases, reproduce issues, verify fixes.
-- **Events & Outreach**: Organize meetups, present talks, write blog posts.
-- **Governance & Process**: Propose improvements to project policies, roadmaps, and contributor experience.
+Start with the **LFDT projects directory** and browse by area. On each project’s site or repo, look for three signals: a **CONTRIBUTING** guide (how to set up and submit changes), issue labels like **good first issue** or **help wanted**, and **communication channels** (chat, mailing list, community calls). That’s your starter kit.
 
-## Finding a Project
+- Explore projects: <https://www.lfdecentralizedtrust.org/contribute-to-code>
+- What “maturity” looks like as projects grow: <https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle.html>
 
-Explore [**LFDT**‑hosted projects](./projects.md) to discover where your interests and skills fit best. Each project typically offers:
-- Contribution guidelines (how to get set up and submit changes),
-- Labels for good first issues and help‑wanted tasks,
-- Communication channels (e.g., mailing lists, chat, meetings),
-- A code of conduct and governance docs.
+## Make your first contribution
 
-## Getting Help
+There’s no single “right” first step—pick the path that feels natural:
 
-If you need help getting started:
-- Ask project maintainers in their preferred communication channels.
-- Look for “good first issue” or “help wanted” labels.
-- Attend community meetings or office hours when available.
+**Docs & tutorials.** Spot a confusing sentence? Fix it. Add a quick how-to based on something you just learned. Docs PRs are the fastest way to help others.
 
----
+**Code & reviews.** Reproduce a bug, add a test, or tackle a small issue labeled for newcomers. If you’re unsure, leave a comment and ask for context.
 
-*Attribution*: Adapted from the page “Contribute to the CNCF Ecosystem” on the CNCF Contributors website. © 2025 The CNCF Authors. Licensed under **CC BY 4.0**. See the original at contribute.cncf.io/contributors/.
+**Community.** Join a call, share notes, or help triage issues. Good stewardship (welcoming, labeling, nudging) is as valuable as code.
+
+*Tip: keep changes small at first. Small PRs get quick reviews and teach you the project’s style.*
+
+## Ask for help (early and often)
+
+You don’t need permission to start—but you should never feel stuck. Say hello in the project’s chat or list, ask for a pointer to good first issues, and attend an upcoming call if you want a quick gut-check on an idea.
+
+- Community chat (Discord): <https://discord.lfdecentralizedtrust.org/>
+- Mailing lists (TAC & project lists): <https://lists.lfdecentralizedtrust.org/g/tac/topics>
+- Meeting calendar (community calls): <https://www.lfdecentralizedtrust.org/meeting-calendar>
+
+## Keep going
+
+Once you’ve made a contribution, you’re part of the community. From there you can join a working group, sign up for mentorship, or help with releases and docs sprints. If you’re curious about how projects evolve under LFDT’s neutral governance, the **lifecycle** page shows the journey from Incubation to Graduation.
+
+- Lifecycle & criteria: <https://lf-decentralized-trust.github.io/governance/governing-documents/project-lifecycle.html>
+
+## Stay connected
+
+- Explore projects: <https://www.lfdecentralizedtrust.org/contribute-to-code>
+- Join the chat (Discord): <https://discord.lfdecentralizedtrust.org/>
+- TAC meeting calendar: <https://www.lfdecentralizedtrust.org/meeting-calendar>
+- Newsletter: <https://www.lfdecentralizedtrust.org/newsletter>
