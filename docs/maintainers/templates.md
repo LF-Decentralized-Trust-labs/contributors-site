@@ -2,25 +2,67 @@
 
 # Templates & Checklists
 
-Copy, adapt, and place these in your repos.
+!!! Welcome
+    Copy, adapt, and place these templates in your repos. Keep them short and discoverable from the README.
+
+<div class="grid cards" markdown>
+
+- :material-file-document:{ .lg .middle } __CONTRIBUTING.md__
+
+  ---
+
+  Quickstart, dev env, tests, review SLAs, DCO/CLA note.
+
+- :material-account-tie:{ .lg .middle } __MAINTAINERS.md__
+
+  ---
+
+  Roles (Reviewer/Approver/Maintainer), current maintainers, promotion process.
+
+- :material-scale-balance:{ .lg .middle } __GOVERNANCE.md__
+
+  ---
+
+  Decision-making, roles, meeting cadence, dispute resolution, TAC escalation.
+
+- :material-clipboard-text:{ .lg .middle } __Release Checklist__
+
+  ---
+
+  Changelog, version bump, CI green, signing + provenance + SBOM, security review.
+
+- :material-github:{ .lg .middle } __Issue / PR Templates__
+
+  ---
+
+  Bug/feature templates; PR checklist (tests/docs/labels/linked issues).
+
+- :material-label:{ .lg .middle } __Labels Catalog__
+
+  ---
+
+  `type/*`, `priority/*`, `status/*`, `good first issue`, `help wanted`.
+
+</div>
 
 ## CONTRIBUTING.md (snippet)
 
-- Quickstart (5–10 lines), dev env setup, how to run tests
-- Coding standards, DCO/CLA note if applicable
-- How to get a review and expected SLAs
+- 5–10 line Quickstart
+- Dev env setup
+- Coding standards
+- Review SLAs & how to get help
 
 ## MAINTAINERS.md (skeleton)
 
-- Role definitions (Reviewer/Approver/Maintainer)
+- Role definitions and expectations
 - Current maintainers (names/handles)
-- Promotion/demotion process and expectations
+- Promotion/demotion process
 
 ## GOVERNANCE.md (outline)
 
-- Decision‑making (lazy consensus, voting)
-- Roles and responsibilities
-- Meeting cadence and communication channels
+- Decision-making (lazy consensus, voting)
+- Roles & responsibilities
+- Meetings & comms
 - Dispute resolution & TAC escalation
 
 ## Release Checklist
@@ -34,13 +76,19 @@ Copy, adapt, and place these in your repos.
 
 ## Issue / PR Templates
 
-- Bug report with reproduction steps, expected/actual
-- Feature request with problem statement and acceptance criteria
-- PR template with checklist (tests/docs/labels/linked issues)
+- Bug report: repro steps, expected/actual, environment
+- Feature request: problem statement, acceptance criteria
+- PR: tests/docs/labels/linked issues checklist
 
 ## Labels Catalog (example)
 
 - `type/bug`, `type/feature`, `type/doc`
 - `priority/p0..p2`
-- `status/blocked`, `status/needs‑review`
+- `status/blocked`, `status/needs-review`
 - `good first issue`, `help wanted`
+
+---
+
+### Related
+
+- [Community](community.md) · [Operations](operations.md) · [Security](security.md)
