@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # Security Playbook
 
 Ship verifiably secure releases and respond quickly to vulnerabilities.
