@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # Governance Playbook
 
 Clear governance sustains project health and trust.
