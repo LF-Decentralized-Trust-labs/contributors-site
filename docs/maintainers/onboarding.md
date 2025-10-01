@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # New Maintainer Onboarding (First 30 Days)
 
 A concise path to a healthy, secure, and welcoming project.
