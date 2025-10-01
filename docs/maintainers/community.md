@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # Community Playbook
 
 Great projects grow great communities. Use these lightweight practices to keep contribution pathways clear and inclusive.
