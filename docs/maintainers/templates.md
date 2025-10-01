@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # Templates & Checklists
 
 Copy, adapt, and place these in your repos.
