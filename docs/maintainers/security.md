@@ -2,37 +2,66 @@
 
 # Security Playbook
 
-Ship verifiably secure releases and respond quickly to vulnerabilities.
+!!! Welcome
+    Ship verifiably secure releases and respond quickly to vulnerabilities. This page covers policy, release integrity, CI, and response.
+
+<div class="grid cards" markdown>
+
+- :material-shield-key:{ .lg .middle } __Security Policy (SECURITY.md)__
+
+  ---
+
+  Private contact, PGP key, embargo flow, supported versions, backport policy.
+
+- :material-certificate:{ .lg .middle } __Release Integrity__
+
+  ---
+
+  SemVer, signed artifacts (cosign/GPG), provenance (SLSA), and SBOM per release.
+
+- :material-shield-account:{ .lg .middle } __CI & Protections__
+
+  ---
+
+  Branch protection, required checks, Scorecards in CI, dependency update policy.
+
+- :material-alert-decagram:{ .lg .middle } __Vulnerability Response__
+
+  ---
+
+  Triage in 48h; fix/mitigation in 7–14 days; private coordination; advisories.
+
+</div>
 
 ## Security Policy (SECURITY.md)
 
-- Provide a **private contact** (security@…) and PGP key if available.
-- Define an **embargo process**, acknowledgement timeline, and disclosure expectations.
-- State supported versions and how fixes are backported.
+- **Contact:** security@… and PGP key (optional)
+- **Embargo:** intake → triage → coordinated fix → disclosure
+- **Support:** list supported versions and backport windows
 
 ## Release Integrity
 
-- Use **SemVer** with clear pre‑releases.
-- Sign artifacts (e.g., **cosign**, GPG) and publish **provenance** (SLSA‑aligned).
-- Generate **SBOM** per release and store with artifacts.
+- **SemVer** with clear pre-releases (alpha/beta/rc)
+- **Signing** (cosign/GPG) for all artifacts; publish **provenance** (SLSA-aligned)
+- **SBOM** per release attached to artifacts
 
 ## CI / Protections
 
-- Branch protection: required reviews, status checks, and signed commits if used.
-- Run **OpenSSF Scorecard** in CI; track key checks (pinned dependencies, token permissions).
-- Regular dependency updates; avoid unreviewed auto‑merges.
+- Branch protection: required reviews & checks; consider signed commits
+- **OpenSSF Scorecard** in CI; track checks like token permissions & pinned deps
+- Regular dependency updates; avoid unreviewed auto-merges
 
 ## Vulnerability Response
 
-- Triage within **48 hours**, fix or mitigation guidance within **7–14 days** depending on severity.
-- Coordinate with downstreams before public disclosure.
-- Publish advisories (e.g., GitHub Security Advisories) and changelog entries.
+- Triage within **48 hours**; guidance/fix within **7–14 days** by severity
+- Coordinate with downstreams prior to disclosure
+- Publish advisories and changelog entries
 
-## Supply‑Chain Hygiene
+## Supply-Chain Hygiene
 
-- Pin versions for build deps; prefer reproducible builds.
-- Restrict GitHub Actions tokens to least privilege; use reusable, trusted workflows.
-- Avoid downloading binaries/scripts at build time from unpinned URLs.
+- Pin build deps; aim for reproducible builds
+- Restrict GitHub Actions tokens & use trusted, reusable workflows
+- Avoid fetching unpinned scripts/binaries at build time
 
 ## Checklists
 
@@ -40,3 +69,9 @@ Ship verifiably secure releases and respond quickly to vulnerabilities.
 - [ ] Signed releases + provenance + SBOM
 - [ ] Scorecard CI in place
 - [ ] Vulnerability response runbook documented
+
+---
+
+### Related
+
+- [Operations](operations.md) · [Templates](templates.md) · [SLSA Guidelines](https://lf-decentralized-trust.github.io/governance/guidelines/slsa-guidelines/)
