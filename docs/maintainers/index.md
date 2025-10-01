@@ -2,9 +2,9 @@
 
 # Maintain a Project
 
-!!! note
+!!! Welcome
 
-    This page is a placeholder.
+    This guide helps LFDT maintainers operate healthy, secure, and welcoming projects. Start with the Maintainer Onboarding Checklist below, then dive into Community, Governance, Security, and Templates.
 
 ## Links to Guidelines
 
