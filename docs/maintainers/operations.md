@@ -1,3 +1,5 @@
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
 # Operations Playbook
 
 Day‑to‑day repository and release operations.
