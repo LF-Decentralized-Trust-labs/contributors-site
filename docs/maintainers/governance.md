@@ -2,37 +2,66 @@
 
 # Governance Playbook
 
-Clear governance sustains project health and trust.
+!!! Welcome
+    Clear governance sustains project health and trust. Use these patterns to document roles, decisions, and succession.
+
+<div class="grid cards" markdown>
+
+- :material-account-tie:{ .lg .middle } __Roles & Ladder (MAINTAINERS.md)__
+
+  ---
+
+  Contributor → Reviewer → Approver → Maintainer; expectations and promotion signals.
+
+- :material-handshake:{ .lg .middle } __Decision-Making & Dispute Resolution__
+
+  ---
+
+  Lazy consensus for most changes; voting for breaking changes; TAC escalation patterns.
+
+- :material-source-repository:{ .lg .middle } __Subprojects & Repo Topology__
+
+  ---
+
+  Propose, accept, and retire subprojects; OWNERS mapping per directory/repo.
+
+- :material-vote:{ .lg .middle } __Elections & Inactivity__
+
+  ---
+
+  Cadence, eligibility, tie-breakers, and the LFDT inactivity/succession process.
+
+</div>
 
 ## Roles & Ladder (MAINTAINERS.md)
 
-- **Contributor → Reviewer → Approver → Maintainer** progression.
-- Expectations: code quality, reviews, community conduct, release participation.
-- Document nomination criteria and a promotion process (lazy consensus + objection window).
+- **Contributor → Reviewer → Approver → Maintainer**
+- Expectations: code quality, reviews, conduct, release participation
+- Promotion: nomination, lazy consensus, objection window; document criteria
 
-## Decision‑Making & Dispute Resolution
+## Decision-Making & Dispute Resolution
 
-- Prefer **lazy consensus** for routine changes.
-- Use documented voting for breaking changes and elections.
-- Escalate unresolved disputes to the **TAC** with a short written summary of options considered.
+- **Lazy consensus** for routine changes
+- **Documented voting** for breaking changes & elections
+- **Escalation**: unresolved disputes summarized and sent to the **TAC**
 
 ## Subprojects & Repository Topology
 
-- Describe how to **propose a subproject**, expected maintainers, and acceptance criteria.
-- Keep clear OWNERS/maintainers per directory or repo.
-- Publish a deprecation/retirement path for subprojects.
+- How to **propose a subproject**, maintainer expectations, acceptance criteria
+- OWNERS/maintainers per directory or repo
+- Deprecation/retirement path and communications
 
 ## Elections & Inactivity
 
-- Define election cadence, eligible voters, nomination windows, and tie‑breakers.
-- Follow LFDT **inactivity** policy for respectful transitions.
-- Maintain a public list of current maintainers with contact method and terms if applicable.
+- Election cadence, eligible voters, nomination windows, tie-breakers
+- Follow LFDT **inactivity** policy for respectful transitions
+- Maintain a public maintainers list with contact and terms (if applicable)
 
 ## Required Docs
 
-- `GOVERNANCE.md` — decision process, roles, meetings, dispute resolution.
-- `MAINTAINERS.md` — names, roles, how to become one.
-- `CODE_OF_CONDUCT.md` — link to LFDT or project CoC.
+- `GOVERNANCE.md` — decisions, roles, meetings, dispute resolution
+- `MAINTAINERS.md` — names/handles, ladder, how to become a maintainer
+- `CODE_OF_CONDUCT.md` — link to LFDT or project CoC
 
 ## Checklists
 
@@ -40,3 +69,9 @@ Clear governance sustains project health and trust.
 - [ ] MAINTAINERS.md with ladder + expectations
 - [ ] Elections documented (if applicable)
 - [ ] Inactivity/succession process linked
+
+---
+
+### Related
+
+- [Community](community.md) · [Operations](operations.md) · [Maintainer Inactivity](https://lf-decentralized-trust.github.io/governance/governing-documents/inactivity/#maintainer-inactivity)
