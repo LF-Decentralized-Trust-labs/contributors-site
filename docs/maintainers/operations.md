@@ -1,8 +1,37 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Operations Playbook
+# Maintainer's Operations Playbook
 
-Day‑to‑day repository and release operations.
+!!! Welcome
+    Practical guidance for day‑to‑day repository and release operations.
+
+<div class="grid cards" markdown>
+
+- :material-folder-cog:{ .lg .middle } __Common Repository Structure__
+
+  ---
+
+  `docs/`, `security/`, `governance/`, `.github/` templates, OWNERS/maintainers mapping.
+
+- :material-robot-confused:{ .lg .middle } __CI/CD Requirements__
+
+  ---
+
+  Required checks (lint, test, build), reproducible builds, artifact storage and retention.
+
+- :material-tag:{ .lg .middle } __Release Taxonomy & Cadence__
+
+  ---
+
+  SemVer, pre-releases, migration notes, LTS decisions, checklists.
+
+- :material-chart-timeline-variant:{ .lg .middle } __Project Updates & Annual Review__
+
+  ---
+
+  What to report to the TAC, metrics, deadlines, and exemplars.
+
+</div>
 
 ## Common Repository Structure
 
@@ -16,25 +45,25 @@ Day‑to‑day repository and release operations.
   └─ workflows/
 /cmd or /src
 ```
-- OWNERS/maintainers mapping per repo or directory.
-- Clear README with quickstart and support links.
+- OWNERS/maintainers mapping per repo or directory
+- README with quickstart + support links
 
 ## CI/CD Requirements
 
-- Required checks (lint, tests, build, license scan).
-- Reproducible builds where feasible.
-- Artifact storage with retention and immutability.
+- Required checks (lint, tests, build, license scan)
+- Reproducible builds where feasible
+- Artifact storage with retention and immutability
 
 ## Release Taxonomy & Cadence
 
-- **SemVer**: major for breaking changes, minor for features, patch for fixes.
-- Pre‑release tags for RC/beta; document upgrade notes and migration steps.
-- Maintain a **release checklist** (see Templates).
+- **SemVer**: major=breaking, minor=features, patch=fixes
+- Pre-release tags for RC/beta; document upgrade notes & migrations
+- Maintain a **release checklist** (see Templates)
 
 ## Project Updates & Annual Review
 
-- Publish periodic **project updates** (milestones, roadmap, risks, needs).
-- Prepare an **Annual Review** with governance/ops status, adoption metrics, and roadmap proposals.
+- Publish periodic **project updates** (milestones, roadmap, risks, needs)
+- Prepare **Annual Review**: governance/ops status, adoption metrics, roadmap proposals
 
 ## Checklists
 
@@ -42,3 +71,9 @@ Day‑to‑day repository and release operations.
 - [ ] Required CI checks enforced
 - [ ] Release checklist documented
 - [ ] Update/Annual Review process linked
+
+---
+
+### Related
+
+- [Security](security.md) · [Governance](governance.md) · [Templates](templates.md)
