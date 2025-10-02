@@ -1,8 +1,7 @@
-# 🐣 Good First Issue Guidelines
+# 🐣 Good First Issue Contribution Guidelines
 
-This guide explains what qualifies as a “Good First Issue” and how to create one for new contributors.
-All our good first issues are labeled with the `good first issue` label.
-An overview of all open good first issues can be found [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Ahiero-ledger+archived%3Afalse+label%3A%22good+first+issue%22+).
+This guide explains what qualifies as a “Good First Issue”, how to suggest new issues and how to participate by resolving good first issues.
+All our good first issues should be labeled with the `good first issue` label.
 
 ## What is a Good First Issue?
 
@@ -75,46 +74,31 @@ Additionally, we invite you to join our community on our [Discord](https://disco
 A general manual about open-source contributions can be found [here](https://github.com/firstcontributions/first-contributions/blob/master/README.md).
 ```
 
-Once you created the issue, please make sure to add the `good first issue candidate` label to it.
-Please do not add the `good first issue` label directly, as we want to review all issues before adding that label.
+Once you created the issue, please make sure to add the `good first issue candidate` label to it or request the maintainers of the project to do so.
+Please do not add the `good first issue` label directly, maintainers need to review all candidate issues before accepting them as good first issues.
 
-## Reviewing Good First Issues Candidates
+## How to Work on Good First Issues
 
-All candidates for good first issues can be found [here](https://github.com/issues?q=is%3Aopen%20is%3Aissue%20org%3Ahiero-ledger%20archived%3Afalse%20label%3A%22good%20first%20issue%20candidate%22).
+### Finding Good First Issues
 
-The review process for good first issues candidates is as follows:
+- Look for issues labeled with "good first issue" in the project's issue tracker (e.g., GitHub Issues).
+- Consult the project's CONTRIBUTING guide, which may contain a dedicated section or list of beginner-friendly tasks.
+- Engage with the project community on platforms like Slack or Discord to inquire about suitable issues for new contributors.
 
-1. **Verify Issue Completeness:** Ensure the issue contains a clear description, expected outcome, relevant links, and any necessary context or prerequisites.
-2. **Check Scope and Complexity:** Confirm that the issue is well-defined, manageable, educational, non-critical, and documented, as outlined above.
-3. **Assess Suitability for Newcomers:** Make sure the issue does not require deep project knowledge or access to sensitive resources.
-4. **Provide Feedback:** If the issue is missing information or does not meet the criteria, leave a comment with suggestions for improvement.
-5. **Label Appropriately:** Once the issue meets all requirements, remove the `good first issue candidate` label and add the `good first issue` label.
-6. **Encourage Discussion:** Invite the original author and other contributors to ask questions or clarify details as needed.
+### Collaborating and submitting your work in Good First Issues
 
-By following these steps, maintainers help ensure that good first issues are welcoming and accessible to new contributors.
+- Fork and Clone: Fork the project repository and clone it locally to your development environment.
+- Create a Feature Branch: Create a new branch for your changes, distinct from the main branch.
+- Implement Changes: Make the necessary code changes or additions to address the issue.
+- Run Tests: Execute any provided tests to ensure your changes do not introduce regressions and function as expected.
+- Commit with Clear Messages: Write concise and descriptive commit messages that explain the purpose of your changes.
+- Push to Your Fork: Push your feature branch to your forked repository on the platform (e.g., GitHub).
+- Open a Pull Request (PR): Create a pull request from your feature branch to the project's main branch, clearly describing your changes and referencing the issue it addresses.
+- Add projects Maintainers to your PR to review your work.
+- Respond to Feedback: Be prepared to address any feedback or requests for changes from project maintainers during the review process.
 
-## Reviewing Pull Requests based on Good First Issues
+### Community Engagement
 
-Please follow these tips when reviewing a PR based on a Good First Issues label:
-
-- **Be welcoming and constructive** – remember many contributors are making their very first PR. Encourage, don’t discourage.
-- **Check for clarity** – if something is missing in the PR (tests, docs, formatting), explain why it matters and guide the contributor.
-- **Keep scope small** – if the PR goes beyond the intended “good first issue,” help contributors refocus rather than rejecting outright.
-- **Celebrate success** – acknowledge even small improvements; positive feedback keeps new contributors engaged.
-
-If the Pull Request is created as part of Hacktoberfest (https://hacktoberfest.com) the "hacktoberfest-accepted" label should be added to the PR when it is merged.
-This ensures the contribution is counted toward the contributor’s Hacktoberfest progress. 
-Progress may help them earn some cool rewards for their efforts.
-
-## Definition of Good First Issue related GitHub labels
-
-The following issues should be part of every repository since they are used in the "Good First Issue" process.
-
-| Label Name | Description | Color |
-| :--- | :--- | :--- |
-| good first issue candidate | Issues that can become a “good first issue” but need more description/context. | #d6d651 |
-| good first issue | Issues which are ideal for a first time or new project contributor. | #097023 |
-| non-code | Issues that can be solved without coding like documentation. | #0ca4a5 |
-| spam | Irrelevant, low-quality, or malicious, created solely for self-promotion, credit, or deception. | #a50104 |
-| hacktoberfest-accepted | Pull Requests counted for Hacktoberfest (https://hacktoberfest.com/) | #d97811 |
-| hacktoberfest | Issues highlighted by lists for Hacktoberfest (https://hacktoberfest.com/) | #d97811 |
+- Polite Communication: Maintain a respectful and professional demeanor when interacting with maintainers and other contributors.
+- Ask Questions: Do not hesitate to ask for clarification or assistance if you encounter difficulties.
+- Stay Engaged: Consider contributing further to the project after your first contribution is merged.
