@@ -12,6 +12,6 @@
 
     ---
 
-    What qualifies as a “Good First Issue”? How to create and review new good first issues for new contributors.
+    What qualifies as a “Good First Issue”? How to create and work on new good first issues for new contributors.
 
 </div>
