@@ -28,9 +28,9 @@ When creating a Good First Issue, the best is to follow our template:
 ```markdown
 ## 🆕🐥 First Timers Only
 
-This issue is reserved for people who have never contributed to [Hiero](https://hiero.org) or any open source project in general.
+This issue is reserved for people who have never contributed to [PROJECT](PROJECT URL) or any open source project in general.
 We know that creating a pull request (PR) is a major barrier for new contributors.
-The goal of this issue and all other issues labeled by [**'good first issue'**](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Ahiero-ledger+archived%3Afalse+label%3A%22good+first+issue%22+) is to help you make your first contribution to Hiero.
+The goal of this issue and all other issues labeled by **'good first issue'** is to help you make your first contribution to [PROJECT].
 
 ## 👾 Description of the issue
 
@@ -53,23 +53,18 @@ IF POSSIBLE, ADD LINKS TO THE RELEVANT DOCUMENTATION AND/OR CODE.
 ## 📋 Step by step guide to do a contribution
 
 If you have never contributed to an open source project at GitHub, the following step-by-step guide will introduce you to the workflow.
-More information and concrete samples for shell commands for each step can be found in our [CONTRIBUTING.md](https://github.com/hiero-ledger/.github/blob/main/CONTRIBUTING.md) file.
+More information and concrete samples for shell commands for each step can be found in our [CONTRIBUTING.md](PROJECT'S CONTRIBUTING.md FILE LINK) file.
 A more detailed general documentation of the GitHub PR workflow can be found [here](https://github.com/firstcontributions/first-contributions/blob/master/README.md).
 
 - [ ] **Claim this issue:** Comment below that you are interested in working on the issue
 - [ ] **Wait for assignment:** A community member with the given rights will add you as an assignee of the issue
-- [ ] **Work on the issue:** Follow the detailed description in our [CONTRIBUTING.md](https://github.com/hiero-ledger/.github/blob/main/CONTRIBUTING.md) file.
-- [ ] **You did it 🎉:** We will merge the fix in the main branch. Thanks for being part of the Hiero community as an open-source contributor ❤️
-
-## 🎉 Contribute to Hacktoberfest
-
-At the time of the [Hacktoberfest](https://hacktoberfest.digitalocean.com) event we try to mark all PRs that solve any good first issue with the `hacktoberfest-accepted` label.
-If you want to resolve this issue as part of Hacktoberfest and we missed adding the label, simply add a comment to the issue or PR, and we will add it.
+- [ ] **Work on the issue:** Follow the detailed description in our [CONTRIBUTING.md](PROJECT'S CONTRIBUTING.md FILE LINK) file.
+- [ ] **You did it 🎉:** We will merge the fix in the main branch. Thanks for being part of the [PROJECT] community as an open-source contributor ❤️
 
 ## 🤔 Additional Information
 
 If you have any questions about the topic of this issue, please ask us directly by adding a comment below.
-Additionally, we invite you to join our community on our [Discord](https://discord.gg/kEnnmB9A) server or attend our [public community calls](https://zoom-lfx.platform.linuxfoundation.org/meetings/hiero?view=week).
+Additionally, we invite you to join our community on our [Discord](PROJECT'S DISCORD LINK) server or attend our [public community calls](PROJECT's CALENDAR LINK).
 
 A general manual about open-source contributions can be found [here](https://github.com/firstcontributions/first-contributions/blob/master/README.md).
 ```
