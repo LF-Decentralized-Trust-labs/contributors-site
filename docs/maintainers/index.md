@@ -66,6 +66,7 @@ These are LFDT requirements that every project must follow. Each topic is linked
 - [Automated Pipelines Best Practices](https://lf-decentralized-trust.github.io/governance/guidelines/automated-pipelines-best-practices/)  
 - [Maintainer Diversity Best Practices](https://lf-decentralized-trust.github.io/governance/guidelines/maintainer-diversity-best-practices/)  
 - [SLSA Guidelines](https://lf-decentralized-trust.github.io/governance/guidelines/slsa-guidelines/)
+- [Good First Issues Guidelines for Maintainers](./guidelines/good-first-issues.md)
 
 ## Maintainer Governance
 
