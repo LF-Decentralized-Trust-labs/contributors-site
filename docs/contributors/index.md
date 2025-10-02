@@ -39,5 +39,5 @@
 
     ---
 
-    Review our contibution guidelines and best practices here.
+    Review our contribution guidelines and best practices here.
 </div>
