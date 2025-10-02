@@ -35,4 +35,9 @@
 
     Do you want to contribute a new source base? Click here to find out the different ways that you can contribute a new source base.
 
+- :material-file-code:{ .lg .middle } __[Contribution Guidelines](./guidelines.md)__
+
+    ---
+
+    Review our contibution guidelines and best practices here.
 </div>
