@@ -2,8 +2,7 @@
 
 # Join the Mentorship Program
 
-The LF Decentralized Trust Mentorship Program provides a structured remote learning opportunity for aspiring decentralized tech developers, researchers, and other contributors, pairing them with experienced project maintainers and community members. Mentors and mentees collaborate to complete defined projects with regular evaluations and feedback. Participants can showcase their contributions through blogging, speaking at events, or presenting at global conferences, helping introduce new talent to the LF Decentralized Trust community.
-
+Curious about decentralized tech and want a hand getting started? Join the LFDT Mentorship Program. We match you with maintainers who will help you pick a project, break it into doable steps, and celebrate your wins. You'll collaborate in the open, grow through regular reviews, and showcase your progress, whether that's a short blog post, a lightning talk, or a conference presentation. Come learn, contribute, and find your place in the LFDT community.
 
 ## Link to Mentorship Information
 
