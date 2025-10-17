@@ -21,9 +21,9 @@ In this guide, you’ll learn how to get involved in open source within the **Li
 Most LFDT projects have a website or GitHub repository with information on how to contribute. They also use communication channels such as:
 
 - [Mailing lists](https://lists.lfdecentralizedtrust.org/g/main)
-- Forums  
 - Chat ([Discord](https://discord.com/invite/hyperledger), Matrix, etc.)
-- Issue trackers  
+- Forums  (see Issues tab on project repositories)
+- Issue trackers  (see Discussions tab on project repositories)
 
 These allow contributors to ask questions, report issues, share ideas, and propose solutions. Always follow the community guidelines and etiquette when using these channels. Being respectful and courteous is essential for collaboration.
 
