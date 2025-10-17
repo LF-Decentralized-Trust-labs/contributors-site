@@ -32,6 +32,12 @@
 
     ---
 
+    Simple steps for engaging real-world users and turning feedback into upstream momentum.
+
+- :material-account-cog:{ .lg .middle } __[End User Engagement](enduserengagement.md)__
+
+    ---
+
     Follow security best practices: SECURITY.md, vulnerability response, SLSA, release signing & provenance.
 
 - :material-cogs:{ .lg .middle } __[Operations](operations.md)__
