@@ -5,47 +5,9 @@
 !!! Welcome
     Copy, adapt, and place these templates in your repos. Keep them short and discoverable from the README.
 
-<div class="grid cards" markdown>
-
-- :material-file-document:{ .lg .middle } __CONTRIBUTING.md__
-
-  ---
+## CONTRIBUTING.md (snippet)
 
   Quickstart, dev env, tests, review SLAs, DCO/CLA note.
-
-- :material-account-tie:{ .lg .middle } __MAINTAINERS.md__
-
-  ---
-
-  Roles (Reviewer/Approver/Maintainer), current maintainers, promotion process.
-
-- :material-scale-balance:{ .lg .middle } __GOVERNANCE.md__
-
-  ---
-
-  Decision-making, roles, meeting cadence, dispute resolution, TAC escalation.
-
-- :material-clipboard-text:{ .lg .middle } __Release Checklist__
-
-  ---
-
-  Changelog, version bump, CI green, signing + provenance + SBOM, security review.
-
-- :material-github:{ .lg .middle } __Issue / PR Templates__
-
-  ---
-
-  Bug/feature templates; PR checklist (tests/docs/labels/linked issues).
-
-- :material-label:{ .lg .middle } __Labels Catalog__
-
-  ---
-
-  `type/*`, `priority/*`, `status/*`, `good first issue`, `help wanted`.
-
-</div>
-
-## CONTRIBUTING.md (snippet)
 
 - 5–10 line Quickstart
 - Dev env setup
@@ -54,11 +16,15 @@
 
 ## MAINTAINERS.md (skeleton)
 
+  Roles (Reviewer/Approver/Maintainer), current maintainers, promotion process.
+
 - Role definitions and expectations
 - Current maintainers (names/handles)
 - Promotion/demotion process
 
 ## GOVERNANCE.md (outline)
+
+  Decision-making, roles, meeting cadence, dispute resolution, TAC escalation.
 
 - Decision-making (lazy consensus, voting)
 - Roles & responsibilities
@@ -66,6 +32,8 @@
 - Dispute resolution & TAC escalation
 
 ## Release Checklist
+
+  Changelog, version bump, CI green, signing + provenance + SBOM, security review.
 
 - [ ] Changelog updated
 - [ ] Version bumped (SemVer)
@@ -76,11 +44,15 @@
 
 ## Issue / PR Templates
 
+  Bug/feature templates; PR checklist (tests/docs/labels/linked issues).
+
 - Bug report: repro steps, expected/actual, environment
 - Feature request: problem statement, acceptance criteria
 - PR: tests/docs/labels/linked issues checklist
 
 ## Labels Catalog (example)
+
+  `type/*`, `priority/*`, `status/*`, `good first issue`, `help wanted`.
 
 - `type/bug`, `type/feature`, `type/doc`
 - `priority/p0..p2`
