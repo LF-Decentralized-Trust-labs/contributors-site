@@ -5,34 +5,6 @@
 !!! Welcome
     Practical guidance for day‑to‑day repository and release operations.
 
-<div class="grid cards" markdown>
-
-- :material-folder-cog:{ .lg .middle } __Common Repository Structure__
-
-  ---
-
-  `docs/`, `security/`, `governance/`, `.github/` templates, OWNERS/maintainers mapping.
-
-- :material-robot-confused:{ .lg .middle } __CI/CD Requirements__
-
-  ---
-
-  Required checks (lint, test, build), reproducible builds, artifact storage and retention.
-
-- :material-tag:{ .lg .middle } __Release Taxonomy & Cadence__
-
-  ---
-
-  SemVer, pre-releases, migration notes, LTS decisions, checklists.
-
-- :material-chart-timeline-variant:{ .lg .middle } __Project Updates & Annual Review__
-
-  ---
-
-  What to report to the TAC, metrics, deadlines, and exemplars.
-
-</div>
-
 ## Common Repository Structure
 
 ```
