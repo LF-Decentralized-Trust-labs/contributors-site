@@ -5,35 +5,9 @@
 !!! Welcome
     Clear governance sustains project health and trust. Use these patterns to document roles, decisions, and succession.
 
-<div class="grid cards" markdown>
-
-- :material-account-tie:{ .lg .middle } __Roles & Ladder (MAINTAINERS.md)__
-
-  ---
+## Roles & Ladder (MAINTAINERS.md)
 
   Contributor → Reviewer → Approver → Maintainer; expectations and promotion signals.
-
-- :material-handshake:{ .lg .middle } __Decision-Making & Dispute Resolution__
-
-  ---
-
-  Lazy consensus for most changes; voting for breaking changes; TAC escalation patterns.
-
-- :material-source-repository:{ .lg .middle } __Subprojects & Repo Topology__
-
-  ---
-
-  Propose, accept, and retire subprojects; OWNERS mapping per directory/repo.
-
-- :material-vote:{ .lg .middle } __Elections & Inactivity__
-
-  ---
-
-  Cadence, eligibility, tie-breakers, and the LFDT inactivity/succession process.
-
-</div>
-
-## Roles & Ladder (MAINTAINERS.md)
 
 - **Contributor → Reviewer → Approver → Maintainer**
 - Expectations: code quality, reviews, conduct, release participation
@@ -41,17 +15,23 @@
 
 ## Decision-Making & Dispute Resolution
 
+  Lazy consensus for most changes; voting for breaking changes; TAC escalation patterns.
+
 - **Lazy consensus** for routine changes
 - **Documented voting** for breaking changes & elections
 - **Escalation**: unresolved disputes summarized and sent to the **TAC**
 
 ## Subprojects & Repository Topology
 
+  Propose, accept, and retire subprojects; OWNERS mapping per directory/repo.
+
 - How to **propose a subproject**, maintainer expectations, acceptance criteria
 - OWNERS/maintainers per directory or repo
 - Deprecation/retirement path and communications
 
 ## Elections & Inactivity
+
+  Cadence, eligibility, tie-breakers, and the LFDT inactivity/succession process.
 
 - Election cadence, eligible voters, nomination windows, tie-breakers
 - Follow LFDT **inactivity** policy for respectful transitions
