@@ -22,17 +22,23 @@
 
 ## CI/CD Requirements
 
+  Required checks (lint, test, build), reproducible builds, artifact storage and retention.
+
 - Required checks (lint, tests, build, license scan)
 - Reproducible builds where feasible
 - Artifact storage with retention and immutability
 
 ## Release Taxonomy & Cadence
 
+  SemVer, pre-releases, migration notes, LTS decisions, checklists.
+
 - **SemVer**: major=breaking, minor=features, patch=fixes
 - Pre-release tags for RC/beta; document upgrade notes & migrations
 - Maintain a **release checklist** (see Templates)
 
 ## Project Updates & Annual Review
+
+What to report to the TAC, metrics, deadlines, and exemplars.
 
 - Publish periodic **project updates** (milestones, roadmap, risks, needs)
 - Prepare **Annual Review**: governance/ops status, adoption metrics, roadmap proposals
