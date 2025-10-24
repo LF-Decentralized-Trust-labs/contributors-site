@@ -7,6 +7,11 @@ Welcome to the LFDT Contributor Hub — your starting point to **participate, co
 !!! tip "New here?"
     Start with the **[About](./about/index.md)** page — it explains how this site is organized, links to the **Contributor Ladder Task Force**, and includes a quick guide on how to propose edits to these docs.
 
+!!! Why get involved?
+
+    Contributing offers numerous benefits for individuals and companies. Check out [why you should consider it](https://www.lfdecentralizedtrust.org/why-get-involved).
+
+
 <div class="grid cards" markdown>
 
 - :octicons-project-symlink-16:{ .lg .middle } __[Contributors](./contributors/index.md)__
